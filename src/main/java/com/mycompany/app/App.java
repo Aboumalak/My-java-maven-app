@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World!";
+    private final String message = "Bonjour. ceci est test dans une new branch!";
 
     public App() {}
 
